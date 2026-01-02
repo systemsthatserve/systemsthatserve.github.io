@@ -1,0 +1,8 @@
+baseURL = 'https://systemsthatserve.github.io/'
+languageCode = 'en-us'
+title = 'Systems That Serve'
+theme = "not-much"
+[caches]
+  [caches.images]
+    dir = ":cacheDir/images"
+
